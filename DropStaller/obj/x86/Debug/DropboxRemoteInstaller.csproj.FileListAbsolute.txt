@@ -1,0 +1,11 @@
+Y:\My Programs\dotNet\Tutorials\DropboxRemoteInstaller\DropboxRemoteInstaller\bin\Debug\DropboxRemoteInstaller.exe.config
+Y:\My Programs\dotNet\Tutorials\DropboxRemoteInstaller\DropboxRemoteInstaller\bin\Debug\DropboxRemoteInstaller.exe
+Y:\My Programs\dotNet\Tutorials\DropboxRemoteInstaller\DropboxRemoteInstaller\bin\Debug\DropboxRemoteInstaller.pdb
+Y:\My Programs\dotNet\Tutorials\DropboxRemoteInstaller\DropboxRemoteInstaller\bin\Debug\DropNet.dll
+Y:\My Programs\dotNet\Tutorials\DropboxRemoteInstaller\DropboxRemoteInstaller\bin\Debug\RestSharp.dll
+Y:\My Programs\dotNet\Tutorials\DropboxRemoteInstaller\DropboxRemoteInstaller\bin\Debug\RestSharp.xml
+Y:\My Programs\dotNet\Tutorials\DropboxRemoteInstaller\DropboxRemoteInstaller\obj\x86\Debug\DropboxRemoteInstaller.Properties.Resources.resources
+Y:\My Programs\dotNet\Tutorials\DropboxRemoteInstaller\DropboxRemoteInstaller\obj\x86\Debug\DropboxRemoteInstaller.csproj.GenerateResource.Cache
+Y:\My Programs\dotNet\Tutorials\DropboxRemoteInstaller\DropboxRemoteInstaller\obj\x86\Debug\DropboxRemoteInstaller.exe
+Y:\My Programs\dotNet\Tutorials\DropboxRemoteInstaller\DropboxRemoteInstaller\obj\x86\Debug\DropboxRemoteInstaller.pdb
+Y:\My Programs\dotNet\Tutorials\DropboxRemoteInstaller\DropboxRemoteInstaller\obj\x86\Debug\DropboxRemoteInstaller.MainWindow.resources

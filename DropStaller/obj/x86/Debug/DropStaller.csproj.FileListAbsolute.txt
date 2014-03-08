@@ -1,0 +1,2 @@
+Y:\My Programs\dotNet\Tutorials\DropboxRemoteInstaller\DropboxRemoteInstaller\bin\Debug\DropStaller.exe.config
+Y:\My Programs\dotNet\Tutorials\DropStaller\DropStaller\bin\Debug\DropStaller.exe.config
